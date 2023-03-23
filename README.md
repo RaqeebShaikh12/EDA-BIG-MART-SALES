@@ -29,17 +29,18 @@ The dataset has 8523 rows of 12 variables.
 
 The analysis was performed using Python 3.3 and the following Python packages:
 
-pandas
-numpy
-matplotlib
-seaborn
+* pandas
+* numpy 
+* matplotlib 
+* seaborn 
+
 These packages can be installed using pip.
 
 ## Files
 
-EDA_BigMart_Sales.ipynb: Jupyter notebook containing the analysis
-BigMartSales.csv: CSV file containing the dataset used in the analysis
-README.md: This file in which all the information related to the project is given
+* EDA_BigMart_Sales.ipynb: Jupyter notebook containing the analysis
+* BigMartSales.csv: CSV file containing the dataset used in the analysis
+* README.md: This file in which all the information related to the project is given
 
 ## Analysis
 
